@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">functionalcompose10</string>
+    <string name="home">Home</string>
+    <string name="pengelolaan_sampah">Pengelolaan Sampah</string>
+    <string name="setting">Setting</string>
+</resources>
